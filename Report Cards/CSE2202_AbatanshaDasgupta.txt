@@ -1,0 +1,14 @@
+Name of the student : Abatansha Dasgupta 
+Class Roll of the student : 02 
+Stream of the student : CSE 
+Your Student ID is : CSE2202
+
+Marks obtained in Math is : 65 
+Marks obtained in Python is : 85 
+Marks obtained in Physics is : 74 
+Marks obtained in Chemistry is : 32 
+Marks obtained in Biology is : 56 
+Marks obtained in English is : 74 
+
+You have got 386 in total with 64%
+Your performance is average... Work hard... You have passed the exam with grade D.

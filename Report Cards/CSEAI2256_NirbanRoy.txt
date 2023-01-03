@@ -1,0 +1,14 @@
+Name of the student : Nirban Roy 
+Class Roll of the student : 56 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI2256
+
+Marks obtained in Math is : 75 
+Marks obtained in Python is : 65 
+Marks obtained in Physics is : 84 
+Marks obtained in Chemistry is : 65 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 45 
+
+You have got 432 in total with 72%
+Good Performance... You have passed the exam with grade C.

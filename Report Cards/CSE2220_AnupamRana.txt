@@ -1,0 +1,14 @@
+Name of the student : Anupam Rana 
+Class Roll of the student : 20 
+Stream of the student : CSE 
+Your Student ID is : CSE2220
+
+Marks obtained in Math is : 95 
+Marks obtained in Python is : 35 
+Marks obtained in Physics is : 64 
+Marks obtained in Chemistry is : 25 
+Marks obtained in Biology is : 87 
+Marks obtained in English is : 65 
+
+You have got 371 in total with 61%
+Your performance is average... Work hard... You have passed the exam with grade D.

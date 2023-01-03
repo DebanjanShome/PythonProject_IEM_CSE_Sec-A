@@ -1,0 +1,14 @@
+Name of the student : Somoprovo Bhattacharjee 
+Class Roll of the student : 201 
+Stream of the student : ECE 
+Your Student ID is : ECE22201
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 98 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 98 
+
+You have got 588 in total with 117%
+Outstanding Performance... You have passed the exam with grade A.

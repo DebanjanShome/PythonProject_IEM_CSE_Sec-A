@@ -1,0 +1,14 @@
+Name of the student : Tirthankar 
+Class Roll of the student : 98 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS2298
+
+Marks obtained in Math is : 85 
+Marks obtained in Python is : 65 
+Marks obtained in Physics is : 95 
+Marks obtained in Chemistry is : 75 
+Marks obtained in Biology is : 85 
+Marks obtained in English is : 61 
+
+You have got 466 in total with 77%
+Good Performance... You have passed the exam with grade C.

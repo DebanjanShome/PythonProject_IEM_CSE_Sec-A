@@ -1,0 +1,14 @@
+Name of the student : Avoy Nath 
+Class Roll of the student : 36 
+Stream of the student : CSE 
+Your Student ID is : CSE2236
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 90 
+Marks obtained in Chemistry is : 60 
+Marks obtained in Biology is : 100 
+Marks obtained in English is : 85 
+
+You have got 532 in total with 88%
+Excellent Performance... You have passed the exam with grade B.

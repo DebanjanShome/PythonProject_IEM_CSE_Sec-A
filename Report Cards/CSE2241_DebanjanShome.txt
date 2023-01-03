@@ -1,0 +1,14 @@
+Name of the student : Debanjan Shome 
+Class Roll of the student : 41 
+Stream of the student : CSE 
+Your Student ID is : CSE2241
+
+Marks obtained in Math is : 100 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 85 
+Marks obtained in Chemistry is : 98 
+Marks obtained in Biology is : 32 
+Marks obtained in English is : 85 
+
+You have got 500 in total with 83%
+Excellent Performance... You have passed the exam with grade B.

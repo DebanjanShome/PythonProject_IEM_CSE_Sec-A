@@ -1,0 +1,14 @@
+Name of the student : Bishrut Saha 
+Class Roll of the student : 46 
+Stream of the student : CSEAIML 
+Your Student ID is : CSEAIML2246
+
+Marks obtained in Math is : 75 
+Marks obtained in Python is : 65 
+Marks obtained in Physics is : 84 
+Marks obtained in Chemistry is : 56 
+Marks obtained in Biology is : 85 
+Marks obtained in English is : 95 
+
+You have got 460 in total with 76%
+Good Performance... You have passed the exam with grade C.

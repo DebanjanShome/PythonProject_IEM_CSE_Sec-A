@@ -1,0 +1,14 @@
+Name of the student : Arnab Munshi 
+Class Roll of the student : 176 
+Stream of the student : ME 
+Your Student ID is : ME22176
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : Null 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 56 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 45 
+
+You have got 395 in total with 79%
+Good Performance... You have passed the exam with grade C.
